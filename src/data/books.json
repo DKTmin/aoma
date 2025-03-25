@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 1099,
+        "image": "book1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 1299,
+        "image": "book2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 1099,
+        "image": "book3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 1299,
+        "image": "book4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 1099,
+        "image": "book5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 1299,
+        "image": "book6.jpg"
+    }
+]
